@@ -1,0 +1,2 @@
+semantic-kernel
+# Add other deps here if needed
